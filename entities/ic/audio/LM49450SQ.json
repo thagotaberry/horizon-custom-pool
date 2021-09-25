@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "edaa3ddb-8382-4a2e-953a-3380ff81d15f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6d5374eb-3ff5-4cb1-8ecd-a6a22ff3e6f1"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "LM49450SQ/NOPB",
+    "prefix": "U",
+    "tags": [
+        "audio",
+        "i2s"
+    ],
+    "type": "entity",
+    "uuid": "382eee32-2128-4454-ab34-98cd2dc94a5e"
+}

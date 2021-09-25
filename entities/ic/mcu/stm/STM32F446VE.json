@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "bec413bd-6020-4d2c-9883-dfd9bae928d4": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ecfc2f9c-927c-4c57-be57-6cec013425c5"
+        }
+    },
+    "manufacturer": "STMicro",
+    "name": "STM32F446VE",
+    "prefix": "U",
+    "tags": [
+        "mcu",
+        "stm32"
+    ],
+    "type": "entity",
+    "uuid": "4a92a4a3-2e2b-4d8b-961f-31160b466d31"
+}

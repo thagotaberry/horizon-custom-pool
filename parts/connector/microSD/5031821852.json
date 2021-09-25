@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "5031821852"
+    ],
+    "datasheet": [
+        false,
+        "https://www.molex.com/pdm_docs/sd/5031821852_sd.pdf"
+    ],
+    "description": [
+        false,
+        "MICRO SD NORMAL ULTRALOWPRO8CKTE"
+    ],
+    "entity": "17e55502-b795-45f1-a0ce-73d4394efae3",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Molex"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0987ab4e-4583-4d6a-a906-dd8ff2bcdeea",
+    "pad_map": {
+        "4a8a4c37-d064-407c-b6d0-6f896fd2f7ed": {
+            "gate": "628a4c18-5640-49d5-9673-c416987619f6",
+            "pin": "50498c58-210c-4f24-a221-ac72dc3e9206"
+        },
+        "6e985c4c-23c6-4bd2-9a4b-43ce6595c4a8": {
+            "gate": "628a4c18-5640-49d5-9673-c416987619f6",
+            "pin": "a4041da4-5445-4505-869f-db0e6853d7c5"
+        },
+        "a9a1abcc-a1c2-4fd1-9d88-cbfda6b386ea": {
+            "gate": "628a4c18-5640-49d5-9673-c416987619f6",
+            "pin": "e8c2eba0-0cb3-470e-91ed-b174bd548c23"
+        },
+        "b2a1c380-0f41-4758-9083-094bb097d032": {
+            "gate": "628a4c18-5640-49d5-9673-c416987619f6",
+            "pin": "a9b318ec-dbb8-492a-85a3-667a7ec18004"
+        },
+        "b5ad13b2-56cb-4861-b205-639f54c8e609": {
+            "gate": "628a4c18-5640-49d5-9673-c416987619f6",
+            "pin": "dbbdc93b-31b6-424b-a587-f80fbeb49a52"
+        },
+        "bc1ab7c8-7fd3-4f02-8bf8-f39cc227d78e": {
+            "gate": "628a4c18-5640-49d5-9673-c416987619f6",
+            "pin": "0037585b-f98c-4a0a-a593-bf9c5a2b70e1"
+        },
+        "f4bbc0a8-8172-4df8-8ca4-927623ad61cd": {
+            "gate": "628a4c18-5640-49d5-9673-c416987619f6",
+            "pin": "e99229be-830f-4b37-9197-dc24422aa2ab"
+        },
+        "fa80df54-c4d0-4419-b5fe-7979d9e0c740": {
+            "gate": "628a4c18-5640-49d5-9673-c416987619f6",
+            "pin": "1555bd7d-b173-4c09-96f0-5165c85edb68"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "microSD"
+    ],
+    "type": "part",
+    "uuid": "fa5feeee-db3d-4823-9143-4ae0331916f9",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "a56801f0-35f0-416a-bedd-e3325d280b80": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "56bdf364-7570-4ef9-80d1-c10a8bb2cc3b"
+        }
+    },
+    "manufacturer": "Micron Technology Inc.",
+    "name": "MT25QL512ABB8ESF-0SIT",
+    "prefix": "U",
+    "tags": [
+        "flash",
+        "ic",
+        "memory"
+    ],
+    "type": "entity",
+    "uuid": "ee7c6a77-cf82-41d9-8ecf-7d545572ad12"
+}

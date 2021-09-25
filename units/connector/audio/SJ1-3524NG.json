@@ -1,0 +1,38 @@
+{
+    "manufacturer": "CUI",
+    "name": "SJ1-3524NG ",
+    "pins": {
+        "1173389e-2058-4703-8d6c-de2df03bc1e2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "sleeve",
+            "swap_group": 0
+        },
+        "3a9b4afb-ac71-40ad-9b20-e38f0e23f771": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "67c8af26-3650-420e-a80a-c5deda3f24ee": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "tip switch",
+            "swap_group": 0
+        },
+        "a476de18-8989-4d8e-8863-667750ac8452": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ring",
+            "swap_group": 0
+        },
+        "e0030180-1a8c-4516-b6bd-fb299f227fb4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "tip",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "20e043c7-5ba4-48ad-94a7-9e64b48c58c9"
+}

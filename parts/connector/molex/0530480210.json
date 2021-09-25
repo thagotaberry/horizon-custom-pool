@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        " 0530480210"
+    ],
+    "datasheet": [
+        false,
+        "https://www.molex.com/pdm_docs/sd/530480210_sd.pdf"
+    ],
+    "description": [
+        false,
+        "Header (picoblade family)"
+    ],
+    "entity": "db217cf8-dda0-4a48-8750-8fddead63b32",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Molex"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "bee71c1a-e202-41c7-94f4-d600d13aeb17",
+    "pad_map": {
+        "949451b0-3ca2-4f5b-bdbf-647c884dc637": {
+            "gate": "4fad15ab-b207-4d9c-bf06-6895ef270e8a",
+            "pin": "f1f703ed-e399-45dd-ae70-d48f78443984"
+        },
+        "ac0ccd83-07e9-4f38-8675-2dc241d4b570": {
+            "gate": "4fad15ab-b207-4d9c-bf06-6895ef270e8a",
+            "pin": "8badc542-1706-45e2-864c-fed3d6efaa6a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "d99ab008-0b82-4c9b-bc6e-afe7c2e28189",
+    "value": [
+        false,
+        ""
+    ]
+}

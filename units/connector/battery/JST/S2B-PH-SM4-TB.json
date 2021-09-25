@@ -1,0 +1,30 @@
+{
+    "manufacturer": "JST",
+    "name": "S2B-PH-SM4-TB",
+    "pins": {
+        "3d739241-cfd4-4ca3-9229-587276dda60b": {
+            "direction": "power_output",
+            "names": [
+                "POWER"
+            ],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "a3d765a1-0a03-4b68-b5ff-04527b41eb86": {
+            "direction": "power_output",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "c8a3084b-5ace-4593-a78c-e532c477f007": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Mech",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2fc49619-1ad2-498e-8039-6d499599b1b8"
+}

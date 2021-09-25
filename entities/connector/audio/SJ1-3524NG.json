@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "4c87ad08-1f43-4d85-9300-cd751621abaa": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "20e043c7-5ba4-48ad-94a7-9e64b48c58c9"
+        }
+    },
+    "manufacturer": "CUI",
+    "name": "SJ1-3524NG",
+    "prefix": "J",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "145901eb-8a49-4045-b808-42a3ef63831f"
+}

@@ -1,0 +1,15 @@
+{
+    "default_via": "00000000-0000-0000-0000-000000000000",
+    "name": "mikes_custom_pool",
+    "pools_included": [
+        "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
+        "aad769f8-8856-43fc-8dcd-28616e4eccd6",
+        "d21ad56f-56a7-41a7-9c8e-68c8e4d735e3",
+        "d2a88d60-9ad7-43b1-a905-8721b6906f40",
+        "baebaf70-d651-429a-a1a3-84afba562a01",
+        "60eec687-e03f-4311-94b3-71e16f14faa2",
+        "71c48295-6a54-4cfb-a7f6-8c867bbbfcc4"
+    ],
+    "type": "pool",
+    "uuid": "9962f492-1dd1-43c0-9d08-294ab84f5bf5"
+}

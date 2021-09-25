@@ -1,0 +1,57 @@
+{
+    "MPN": [
+        false,
+        "SJ1-3524NG"
+    ],
+    "datasheet": [
+        false,
+        "https://www.cuidevices.com/product/resource/digikeypdf/sj1-352xng-series.pdf"
+    ],
+    "description": [
+        false,
+        "3.5 mm audio jack with tip switch"
+    ],
+    "entity": "145901eb-8a49-4045-b808-42a3ef63831f",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CUI"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "fbb13b49-9274-40b9-9479-b678ac90b63d",
+    "pad_map": {
+        "1370b5da-398e-4bff-9727-dfb826fe495c": {
+            "gate": "4c87ad08-1f43-4d85-9300-cd751621abaa",
+            "pin": "a476de18-8989-4d8e-8863-667750ac8452"
+        },
+        "504b3afd-5ede-4f1c-8a00-79434537f309": {
+            "gate": "4c87ad08-1f43-4d85-9300-cd751621abaa",
+            "pin": "3a9b4afb-ac71-40ad-9b20-e38f0e23f771"
+        },
+        "508fa116-c904-4bb0-baa2-95a9a5af6822": {
+            "gate": "4c87ad08-1f43-4d85-9300-cd751621abaa",
+            "pin": "67c8af26-3650-420e-a80a-c5deda3f24ee"
+        },
+        "6ea945dc-7b6b-46f9-9acd-b4446249094e": {
+            "gate": "4c87ad08-1f43-4d85-9300-cd751621abaa",
+            "pin": "1173389e-2058-4703-8d6c-de2df03bc1e2"
+        },
+        "aa63e09d-11c7-439f-ac29-578d316c3d50": {
+            "gate": "4c87ad08-1f43-4d85-9300-cd751621abaa",
+            "pin": "e0030180-1a8c-4516-b6bd-fb299f227fb4"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "3.5mm",
+        "connector",
+        "jack"
+    ],
+    "type": "part",
+    "uuid": "a10756f9-4d98-4d39-ab0d-582966601436",
+    "value": [
+        false,
+        ""
+    ]
+}

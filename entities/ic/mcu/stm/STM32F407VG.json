@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "4c789570-d3c4-44f0-990f-d4fa331f23fd": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "84683ee6-f508-41ac-be4e-d4018bc0a1b0"
+        }
+    },
+    "manufacturer": "STMicro",
+    "name": "STM32F407VG",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "9c971628-88a4-4e4f-a02e-54e1271cd910"
+}

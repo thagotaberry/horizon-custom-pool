@@ -1,0 +1,20 @@
+{
+    "manufacturer": "TE Connectivity AMP Connectors",
+    "name": "282834-2  ",
+    "pins": {
+        "0818461b-6861-4d62-aa7d-8441df2e01b4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "6780be76-3fd7-4d20-bb1b-6c8662c25528": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2adbb89b-021f-4c68-a37b-0f2657ef431c"
+}

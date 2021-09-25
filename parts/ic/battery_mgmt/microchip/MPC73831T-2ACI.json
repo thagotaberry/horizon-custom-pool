@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "MCP73831T-5ACI/OT"
+    ],
+    "datasheet": [
+        false,
+        "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf"
+    ],
+    "description": [
+        false,
+        "Battery Charger"
+    ],
+    "entity": "a7642421-4be6-4403-8072-4bf19cf041b4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "package": "70c65846-2ee7-4d11-9d38-fe0fa84dc963",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "62a562c0-013c-4951-b781-1cb066c59bb9",
+            "pin": "60ec6546-2c88-43bb-84dd-02899e3138d9"
+        },
+        "9fe9b6c3-f887-4523-976a-6aa050235658": {
+            "gate": "62a562c0-013c-4951-b781-1cb066c59bb9",
+            "pin": "33bdee1b-641a-4c2c-9a98-96b54b759d73"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "62a562c0-013c-4951-b781-1cb066c59bb9",
+            "pin": "7a7cc4b9-4a04-4815-a320-62827d203fb4"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "62a562c0-013c-4951-b781-1cb066c59bb9",
+            "pin": "5d319c7b-3279-45d9-8b5e-0799ee58f67f"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "62a562c0-013c-4951-b781-1cb066c59bb9",
+            "pin": "fe5d2190-ce14-4b0f-a724-de905e8e9cfa"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "battery",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "826ca8ec-a79e-403e-aba5-21a6507c7aee",
+    "value": [
+        false,
+        ""
+    ]
+}

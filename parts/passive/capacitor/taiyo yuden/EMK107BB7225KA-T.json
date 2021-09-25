@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "EMK107BB7225KA-T"
+    ],
+    "base": "dc0147fb-e85e-43bf-8516-4ad1c0c6b1cc",
+    "datasheet": [
+        false,
+        "https://ds.yuden.co.jp/TYCOMPAS/ut/detail?pn=EMK107BB7225KA-T%20%20&u=M"
+    ],
+    "description": [
+        true,
+        "Multilayer ceramic capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "Taiyo Yuden"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "table": "capacitors",
+        "type": "X7R",
+        "value": "2.2e-06",
+        "wvdc": "16"
+    },
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "eaff7aba-1fc0-4917-bcee-25d9085d6b8c",
+    "value": [
+        false,
+        "2.2 µF"
+    ]
+}

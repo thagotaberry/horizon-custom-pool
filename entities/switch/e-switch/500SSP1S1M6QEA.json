@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "601679ea-f7a9-477b-af50-aa24602bee0c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7f3c979c-34ee-44df-a280-13c971fc07b4"
+        }
+    },
+    "manufacturer": "E-Switch",
+    "name": "500SSP1S1M6QEA",
+    "prefix": "S",
+    "tags": [],
+    "type": "entity",
+    "uuid": "675d0dbd-5fa8-43c5-bbf6-a4102ab61c49"
+}

@@ -1,0 +1,20 @@
+{
+    "manufacturer": "Molex",
+    "name": " 0530480210 ",
+    "pins": {
+        "8badc542-1706-45e2-864c-fed3d6efaa6a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "f1f703ed-e399-45dd-ae70-d48f78443984": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "811fe3c7-d32e-4ffc-9a33-0e89fb2e90ee"
+}

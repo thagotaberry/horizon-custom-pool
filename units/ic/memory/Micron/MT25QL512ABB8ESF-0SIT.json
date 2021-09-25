@@ -1,0 +1,68 @@
+{
+    "manufacturer": "Micron Technology Inc.",
+    "name": "MT25QL512ABB8ESF-0SIT",
+    "pins": {
+        "19a7121f-9a04-4ccb-8e38-aa8aa0f7b26b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DQ3/HOLD#",
+            "swap_group": 0
+        },
+        "55f04841-776c-4168-9a0a-bbf18335ab03": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vss",
+            "swap_group": 0
+        },
+        "5cca2505-541e-4f73-8ab5-02ed1c0ce293": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        },
+        "71e8ad7f-3dde-4ab5-99c4-fd351ed10d28": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vcc",
+            "swap_group": 0
+        },
+        "8100b201-71f3-4f70-9c98-ac57a303eb54": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "S#",
+            "swap_group": 0
+        },
+        "8b332915-5b45-42b6-9bdf-f0804a34324d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DQ1",
+            "swap_group": 0
+        },
+        "a92e18d1-3d28-4257-88ba-448afd0f6944": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DQ0",
+            "swap_group": 0
+        },
+        "afb123d1-d7e2-40ef-903e-bd7af62c4a66": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "DNU",
+            "swap_group": 0
+        },
+        "bbaad9f3-64b3-49c2-99d4-060b58b7d56b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RESET#",
+            "swap_group": 0
+        },
+        "c66901dc-84fa-4d0d-b925-9de8f40a57c8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "W#/DQ2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "56bdf364-7570-4ef9-80d1-c10a8bb2cc3b"
+}

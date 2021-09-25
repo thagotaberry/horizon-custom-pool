@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "62a562c0-013c-4951-b781-1cb066c59bb9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "64926d34-bd28-4948-ae16-3c79bccaff9e"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "MCP73831T-2ACI",
+    "prefix": "U",
+    "tags": [
+        "battery",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "a7642421-4be6-4403-8072-4bf19cf041b4"
+}

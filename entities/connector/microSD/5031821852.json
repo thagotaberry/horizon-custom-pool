@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "628a4c18-5640-49d5-9673-c416987619f6": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "49bd3b45-1759-430e-9e86-fcf67b94a9aa"
+        }
+    },
+    "manufacturer": "Molex",
+    "name": "5031821852",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "microSD"
+    ],
+    "type": "entity",
+    "uuid": "17e55502-b795-45f1-a0ce-73d4394efae3"
+}

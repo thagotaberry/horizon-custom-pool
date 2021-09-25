@@ -1,0 +1,200 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "LM49450SQ/NOPB",
+    "pins": {
+        "08725c3a-58dd-4f54-a522-ac8ea8da8fd3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GNDPad",
+            "swap_group": 0
+        },
+        "10e4545a-ae47-4971-b95c-19fe1d9f352d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HPR",
+            "swap_group": 0
+        },
+        "23ccb6b0-48b6-4f5c-993a-72125fb7c601": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RLS-",
+            "swap_group": 0
+        },
+        "26c0a5b1-9df1-436a-8025-45389885e511": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "C1N",
+            "swap_group": 0
+        },
+        "2b352341-b5ff-453c-89dc-fac01f5aed2b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "CPGND",
+            "swap_group": 0
+        },
+        "2f9ee972-34fb-48ad-8550-fd68a6656f72": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REF",
+            "swap_group": 0
+        },
+        "3fc1cd01-f93f-4b95-9694-45f46a718828": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vdd",
+            "swap_group": 0
+        },
+        "501e1702-05fb-451a-8ae2-460626017c6f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "I2S_CLK",
+            "swap_group": 0
+        },
+        "5507df9e-c9fc-484e-b6d5-a8c2c9b26ba3": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HPGND",
+            "swap_group": 0
+        },
+        "55db7cfb-66ae-4173-9a29-a7ab7c691ed3": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HPS",
+            "swap_group": 0
+        },
+        "5e58bbd5-982e-492c-be54-9eecf741f672": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DVdd",
+            "swap_group": 0
+        },
+        "620245ce-e1e9-4dd3-a726-ccedfc2fbcf1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "LSGND",
+            "swap_group": 0
+        },
+        "641b715a-64c2-4c78-8186-b7e03291765a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INR",
+            "swap_group": 0
+        },
+        "6b7ab4c4-5313-4792-bc1b-d8c4f49573da": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MCLK",
+            "swap_group": 0
+        },
+        "6be19fcb-dfd4-4fb3-9b9f-545b48d1464d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HPL",
+            "swap_group": 0
+        },
+        "720ff6f4-115f-4a02-832e-b3425add277d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "HPVss",
+            "swap_group": 0
+        },
+        "99d415ad-e5aa-4e24-bb61-5e98660125d1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "LSVdd2",
+            "swap_group": 0
+        },
+        "9a53e01e-d0f1-48fc-adee-ac76c2e4ea92": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "CPVdd",
+            "swap_group": 0
+        },
+        "9b39e0de-c061-4de7-9ecf-c8608f3311ea": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "I2S_SDI",
+            "swap_group": 0
+        },
+        "9da1aa60-053b-4d60-8b1f-0d428dccd21c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DGND",
+            "swap_group": 0
+        },
+        "a01eeea5-c6c6-4221-8d93-47c011e95080": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LLS+",
+            "swap_group": 0
+        },
+        "a7e4ddbb-cb03-469a-bd08-2b74543dbfac": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RLS+",
+            "swap_group": 0
+        },
+        "bef53aaa-3c02-45fb-a84c-d4b023f2a88d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INL",
+            "swap_group": 0
+        },
+        "c712a2fe-1f70-44b9-ace6-dab86f59d594": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "C1P",
+            "swap_group": 0
+        },
+        "cfd57536-5396-459d-9e38-193b2f08dc66": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "BYPASS",
+            "swap_group": 0
+        },
+        "e02e5e80-7c4a-4890-b651-96fccadc43ea": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "e25fc2c4-3603-45a4-bc52-716a922ae150": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "I2S_WS",
+            "swap_group": 0
+        },
+        "e508b857-0933-47ad-958e-7c2397e4f07a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IOVdd",
+            "swap_group": 0
+        },
+        "eed4eaa2-d131-40d6-a0f8-5ac5dbb26805": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "f83a5c6e-b6c8-4584-bc15-a464c0a2f913": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LLS-",
+            "swap_group": 0
+        },
+        "f864b6b1-e7e9-4069-a0d4-88618cae6aa6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "HPVdd",
+            "swap_group": 0
+        },
+        "fe2cce63-3d58-4c47-8ade-56b24f943ecc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "6d5374eb-3ff5-4cb1-8ecd-a6a22ff3e6f1"
+}

@@ -1,0 +1,1132 @@
+{
+    "manufacturer": "STMicro",
+    "name": "STM32F446VE",
+    "pins": {
+        "01a500cc-868c-4a95-9b3d-d508f09be5de": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN0",
+                "ADC2_IN0",
+                "ADC3_IN0",
+                "RTC_AF2",
+                "SYS_WKUP0",
+                "TIM2_CH1",
+                "TIM2_ETR",
+                "TIM5_CH1",
+                "TIM8_ETR",
+                "UART4_TX",
+                "USART2_CTS"
+            ],
+            "primary_name": "PA0-WKUP",
+            "swap_group": 0
+        },
+        "029e2f78-c756-403d-841e-82d3281c992e": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN4",
+                "ADC2_IN4",
+                "DAC_OUT1",
+                "DCMI_HSYNC",
+                "I2S1_WS",
+                "I2S3_WS",
+                "SPI1_NSS",
+                "SPI3_NSS",
+                "USART2_CK",
+                "USB_OTG_HS_SOF"
+            ],
+            "primary_name": "PA4",
+            "swap_group": 0
+        },
+        "03de5089-a5d7-4116-b693-4d5ce86a3931": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_D1",
+                "TIM1_CH3",
+                "USART1_RX",
+                "USB_OTG_FS_ID"
+            ],
+            "primary_name": "PA10",
+            "swap_group": 0
+        },
+        "046fe0c0-4524-49de-8bba-49431d2b6607": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_D0",
+                "FMC_DA0",
+                "FMPI2C1_SCL",
+                "SAI2_SCK_A",
+                "TIM4_CH3"
+            ],
+            "primary_name": "PD14",
+            "swap_group": 0
+        },
+        "04bc0527-0515-43b6-951e-00047138b54d": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN8",
+                "ADC2_IN8",
+                "I2S3_SD",
+                "SDIO_D1",
+                "SPI3_MOSI",
+                "TIM1_CH2N",
+                "TIM3_CH3",
+                "TIM8_CH2N",
+                "UART4_CTS",
+                "USB_OTG_HS_ULPI_D1"
+            ],
+            "primary_name": "PB0",
+            "swap_group": 0
+        },
+        "086e8d2d-a9a9-4554-97b6-977a65570b33": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_EXTI15",
+                "ADC2_EXTI15",
+                "ADC3_EXTI15",
+                "CEC",
+                "I2S1_WS",
+                "I2S3_WS",
+                "SPI1_NSS",
+                "SPI3_NSS",
+                "SYS_JTDI",
+                "TIM2_CH1",
+                "TIM2_ETR",
+                "UART4_RTS"
+            ],
+            "primary_name": "PA15",
+            "swap_group": 0
+        },
+        "08f2082c-776d-45a5-a284-1d2027305e62": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN9",
+                "ADC2_IN9",
+                "SDIO_D2",
+                "TIM1_CH3N",
+                "TIM3_CH4",
+                "TIM8_CH3N",
+                "USB_OTG_HS_ULPI_D2"
+            ],
+            "primary_name": "PB1",
+            "swap_group": 0
+        },
+        "0a5e1b15-a5ce-4a93-b897-3704636babd9": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_EXTI11",
+                "ADC2_EXTI11",
+                "ADC3_EXTI11",
+                "FMC_A16",
+                "FMPI2C1_SMBA",
+                "QUADSPI_BK1_IO0",
+                "SAI2_SD_A",
+                "USART3_CTS"
+            ],
+            "primary_name": "PD11",
+            "swap_group": 0
+        },
+        "0aa547bc-baaf-4543-a47b-02d979512cb6": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_D11",
+                "SDIO_CMD",
+                "TIM3_ETR",
+                "UART5_RX"
+            ],
+            "primary_name": "PD2",
+            "swap_group": 0
+        },
+        "0bcf974d-63e9-4667-9a3b-616dddc25701": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN7",
+                "ADC2_IN7",
+                "FMC_SDNWE",
+                "I2S1_SD",
+                "SPI1_MOSI",
+                "TIM14_CH1",
+                "TIM1_CH1N",
+                "TIM3_CH2",
+                "TIM8_CH1N"
+            ],
+            "primary_name": "PA7",
+            "swap_group": 0
+        },
+        "0d47d7c2-c8f6-4975-9706-b9c208245123": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_A18",
+                "FMPI2C1_SDA",
+                "QUADSPI_BK1_IO3",
+                "SAI2_SCK_A",
+                "TIM4_CH2"
+            ],
+            "primary_name": "PD13",
+            "swap_group": 0
+        },
+        "125cb09a-e4dc-4ea2-9c03-2acf4f846256": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCAP_2",
+            "swap_group": 0
+        },
+        "14b9d2fd-bf67-46c3-b627-d05852826807": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_D11",
+                "FMC_DA11",
+                "SAI2_MCLK_B",
+                "SPI4_MOSI",
+                "TIM1_CH4"
+            ],
+            "primary_name": "PE14",
+            "swap_group": 0
+        },
+        "1c0f4259-84f1-44ec-8987-8c61ad2a57ed": {
+            "direction": "bidirectional",
+            "names": [
+                "CAN2_TX",
+                "I2S2_CK",
+                "SPI2_SCK",
+                "TIM1_CH1N",
+                "USART3_CTS",
+                "USB_OTG_HS_ULPI_D6",
+                "USB_OTG_HS_VBUS"
+            ],
+            "primary_name": "PB13",
+            "swap_group": 0
+        },
+        "226038e6-9401-4158-9fef-a53cb6ce539f": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_A17",
+                "FMPI2C1_SCL",
+                "QUADSPI_BK1_IO1",
+                "SAI2_FS_A",
+                "TIM4_CH1",
+                "USART3_RTS"
+            ],
+            "primary_name": "PD12",
+            "swap_group": 0
+        },
+        "246531af-086c-4dc6-943d-3138976ed04a": {
+            "direction": "bidirectional",
+            "names": [
+                "CAN2_RX",
+                "DCMI_D10",
+                "FMC_SDCKE1",
+                "I2C1_SMBA",
+                "I2S1_SD",
+                "I2S3_SD",
+                "SPI1_MOSI",
+                "SPI3_MOSI",
+                "TIM3_CH2",
+                "USB_OTG_HS_ULPI_D7"
+            ],
+            "primary_name": "PB5",
+            "swap_group": 0
+        },
+        "26138aae-f8f8-4916-954b-502fe2a92fce": {
+            "direction": "bidirectional",
+            "names": [
+                "DAC_EXTI9",
+                "DCMI_D3",
+                "I2C3_SDA",
+                "I2S_CKIN",
+                "QUADSPI_BK1_IO0",
+                "RCC_MCO_2",
+                "SDIO_D1",
+                "TIM3_CH4",
+                "TIM8_CH4",
+                "UART5_CTS"
+            ],
+            "primary_name": "PC9",
+            "swap_group": 0
+        },
+        "2ec27c5a-215d-40bc-8575-08257ef1e814": {
+            "direction": "bidirectional",
+            "names": [
+                "CAN1_TX",
+                "FMC_D3",
+                "FMC_DA3",
+                "I2S2_WS",
+                "SPI2_NSS"
+            ],
+            "primary_name": "PD1",
+            "swap_group": 0
+        },
+        "3087073e-704d-43d0-bde5-b8102fdd66a2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "30efd6ee-a034-4f59-812c-e1fa57a6e3d8": {
+            "direction": "bidirectional",
+            "names": [
+                "CAN1_TX",
+                "DAC_EXTI9",
+                "DCMI_D7",
+                "I2C1_SDA",
+                "I2S2_WS",
+                "SAI1_FS_B",
+                "SDIO_D5",
+                "SPI2_NSS",
+                "TIM11_CH1",
+                "TIM2_CH2",
+                "TIM4_CH4"
+            ],
+            "primary_name": "PB9",
+            "swap_group": 0
+        },
+        "33a5fca6-b33a-4ef7-b6e8-30c9df705f4f": {
+            "direction": "bidirectional",
+            "names": [
+                "DAC_EXTI9",
+                "FMC_D6",
+                "FMC_DA6",
+                "QUADSPI_BK2_IO2",
+                "TIM1_CH1"
+            ],
+            "primary_name": "PE9",
+            "swap_group": 0
+        },
+        "37878f73-0a3c-4756-ba33-fbc1443407a0": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_D0",
+                "FMPI2C1_SCL",
+                "I2S2_MCK",
+                "SDIO_D6",
+                "TIM3_CH1",
+                "TIM8_CH1",
+                "USART6_TX"
+            ],
+            "primary_name": "PC6",
+            "swap_group": 0
+        },
+        "3845df95-90a7-4e90-af8a-40355a8d3c8e": {
+            "direction": "bidirectional",
+            "names": [
+                "I2C3_SCL",
+                "RCC_MCO_1",
+                "TIM1_CH1",
+                "USART1_CK",
+                "USB_OTG_FS_SOF"
+            ],
+            "primary_name": "PA8",
+            "swap_group": 0
+        },
+        "3901c41d-6c36-4bc0-bac1-fb2099f38ec7": {
+            "direction": "bidirectional",
+            "names": [
+                "I2C3_SDA",
+                "I2S2_WS",
+                "SPI1_MISO",
+                "SPI2_NSS",
+                "SPI3_MISO",
+                "SYS_JTRST",
+                "TIM3_CH1"
+            ],
+            "primary_name": "PB4",
+            "swap_group": 0
+        },
+        "410e68da-d58c-44f8-afd8-7a6053fe6555": {
+            "direction": "bidirectional",
+            "names": [
+                "RCC_OSC_OUT"
+            ],
+            "primary_name": "PH1-OSC_OUT",
+            "swap_group": 0
+        },
+        "4747ebba-696e-4559-a805-5efd30836f18": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_EXTI15",
+                "ADC2_EXTI15",
+                "ADC3_EXTI15",
+                "FMC_D12",
+                "FMC_DA12",
+                "TIM1_BKIN"
+            ],
+            "primary_name": "PE15",
+            "swap_group": 0
+        },
+        "54e31597-6767-4e6c-a32a-767cfe842d6a": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_EXTI11",
+                "ADC2_EXTI11",
+                "ADC3_EXTI11",
+                "FMC_D8",
+                "FMC_DA8",
+                "SAI2_SD_B",
+                "SPI4_NSS",
+                "TIM1_CH2"
+            ],
+            "primary_name": "PE11",
+            "swap_group": 0
+        },
+        "5625fe6b-5c98-41b8-81bf-9519fd39bfe6": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN1",
+                "ADC2_IN1",
+                "ADC3_IN1",
+                "QUADSPI_BK1_IO3",
+                "SAI2_MCLK_B",
+                "TIM2_CH2",
+                "TIM5_CH2",
+                "UART4_RX",
+                "USART2_RTS"
+            ],
+            "primary_name": "PA1",
+            "swap_group": 0
+        },
+        "5d5713f4-2c64-44f0-9b16-8b2ba7d49732": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_D7",
+                "FMC_A22",
+                "SAI1_SD_A",
+                "SPI4_MOSI",
+                "SYS_TRACED3",
+                "TIM9_CH2"
+            ],
+            "primary_name": "PE6",
+            "swap_group": 0
+        },
+        "5e2713cb-72ce-4864-89ec-758a1dda548c": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_A23",
+                "QUADSPI_BK1_IO2",
+                "SAI1_MCLK_A",
+                "SPI4_SCK",
+                "SYS_TRACECLK"
+            ],
+            "primary_name": "PE2",
+            "swap_group": 0
+        },
+        "5f0f90d8-b808-4942-9888-186ae6e78cf7": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_D4",
+                "FMC_A20",
+                "SAI1_FS_A",
+                "SPI4_NSS",
+                "SYS_TRACED1"
+            ],
+            "primary_name": "PE4",
+            "swap_group": 0
+        },
+        "60014654-2b05-440b-a4f7-d6360e89674d": {
+            "direction": "bidirectional",
+            "names": [
+                "CAN1_RX",
+                "FMC_D2",
+                "FMC_DA2",
+                "I2S3_SD",
+                "SPI3_MOSI",
+                "SPI4_MISO"
+            ],
+            "primary_name": "PD0",
+            "swap_group": 0
+        },
+        "6136e1d3-890b-487e-88a2-574192736418": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCAP_1",
+            "swap_group": 0
+        },
+        "6157aa90-bc03-4b47-8e3d-9e31f936f789": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NRST",
+            "swap_group": 0
+        },
+        "62fec968-2b76-49d8-8176-404a86b4639c": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_D4",
+                "FMC_DA4",
+                "QUADSPI_BK2_IO0",
+                "TIM1_ETR",
+                "UART5_RX"
+            ],
+            "primary_name": "PE7",
+            "swap_group": 0
+        },
+        "65f5c9e2-ba3e-4ecb-aa63-8084f38a65c2": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_D5",
+                "FMC_DA5",
+                "QUADSPI_BK2_IO1",
+                "TIM1_CH1N",
+                "UART5_TX"
+            ],
+            "primary_name": "PE8",
+            "swap_group": 0
+        },
+        "66d5cfa7-8fee-4c34-b2d7-107b07856039": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN6",
+                "ADC2_IN6",
+                "DCMI_PIXCLK",
+                "I2S2_MCK",
+                "SPI1_MISO",
+                "TIM13_CH1",
+                "TIM1_BKIN",
+                "TIM3_CH1",
+                "TIM8_BKIN"
+            ],
+            "primary_name": "PA6",
+            "swap_group": 0
+        },
+        "6820caf8-c12d-431a-8eba-a02016d04da5": {
+            "direction": "bidirectional",
+            "names": [
+                "CAN1_RX",
+                "DCMI_D6",
+                "I2C1_SCL",
+                "SDIO_D4",
+                "TIM10_CH1",
+                "TIM2_CH1",
+                "TIM2_ETR",
+                "TIM4_CH3"
+            ],
+            "primary_name": "PB8",
+            "swap_group": 0
+        },
+        "6a7e282a-39c3-4af6-a69a-9cba05de250f": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_VSYNC",
+                "FMC_NL",
+                "I2C1_SDA",
+                "SPDIFRX_IN0",
+                "TIM4_CH2",
+                "USART1_RX"
+            ],
+            "primary_name": "PB7",
+            "swap_group": 0
+        },
+        "6c64ffe7-eaaf-4ca8-9dda-3d0ffca098a7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSSA",
+            "swap_group": 0
+        },
+        "6c9ddfe4-06f6-4274-9b9a-0dcadf7370aa": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_D8",
+                "I2S3_CK",
+                "QUADSPI_BK1_IO1",
+                "SDIO_D2",
+                "SPI3_SCK",
+                "UART4_TX",
+                "USART3_TX"
+            ],
+            "primary_name": "PC10",
+            "swap_group": 0
+        },
+        "6d1eec7f-041e-4036-8ff7-ee20dc527296": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_D9",
+                "I2C2_SDA",
+                "I2S3_SD",
+                "SDIO_CK",
+                "SPI3_MOSI",
+                "UART5_TX",
+                "USART3_CK"
+            ],
+            "primary_name": "PC12",
+            "swap_group": 0
+        },
+        "6d697816-a2f0-4c6d-9f0b-d0458810acf3": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN12",
+                "ADC2_IN12",
+                "ADC3_IN12",
+                "FMC_SDNE0",
+                "SPI2_MISO",
+                "USB_OTG_HS_ULPI_DIR"
+            ],
+            "primary_name": "PC2",
+            "swap_group": 0
+        },
+        "6e86a349-9a38-4bd1-88cc-1e4e34a88d4f": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_NE1",
+                "SPDIFRX_IN0",
+                "USART2_CK"
+            ],
+            "primary_name": "PD7",
+            "swap_group": 0
+        },
+        "6f7091e8-adf1-419f-8dd6-cc2c189be857": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN13",
+                "ADC2_IN13",
+                "ADC3_IN13",
+                "FMC_SDCKE0",
+                "I2S2_SD",
+                "SPI2_MOSI",
+                "USB_OTG_HS_ULPI_NXT"
+            ],
+            "primary_name": "PC3",
+            "swap_group": 0
+        },
+        "70047bba-a190-49dc-a91c-7e33cab8a031": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_D6",
+                "FMC_A21",
+                "SAI1_SCK_A",
+                "SPI4_MISO",
+                "SYS_TRACED2",
+                "TIM9_CH1"
+            ],
+            "primary_name": "PE5",
+            "swap_group": 0
+        },
+        "730c017e-6589-4d06-a0d7-0840f9763b52": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_D10",
+                "FMC_DA10",
+                "SAI2_FS_B",
+                "SPI4_MISO",
+                "TIM1_CH3"
+            ],
+            "primary_name": "PE13",
+            "swap_group": 0
+        },
+        "7540dccf-d83a-453e-8dfe-9f79d554d39e": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_EXTI15",
+                "ADC2_EXTI15",
+                "ADC3_EXTI15",
+                "RCC_OSC32_OUT"
+            ],
+            "primary_name": "PC15-OSC32_OUT",
+            "swap_group": 0
+        },
+        "769ee466-906b-4f0d-b8d5-4ec8a947bcc3": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_NOE",
+                "USART2_RTS"
+            ],
+            "primary_name": "PD4",
+            "swap_group": 0
+        },
+        "7b7dc51b-4800-449d-9eae-9127e83b1bd3": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN2",
+                "ADC2_IN2",
+                "ADC3_IN2",
+                "SAI2_SCK_B",
+                "TIM2_CH3",
+                "TIM5_CH3",
+                "TIM9_CH1",
+                "USART2_TX"
+            ],
+            "primary_name": "PA2",
+            "swap_group": 0
+        },
+        "7e7a4019-0c2f-45f5-afbe-9c8ef688046a": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_NWE",
+                "USART2_TX"
+            ],
+            "primary_name": "PD5",
+            "swap_group": 0
+        },
+        "824091fe-28cb-452e-a979-0c1e311dcff2": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN15",
+                "ADC2_IN15",
+                "FMC_SDCKE0",
+                "SPDIFRX_IN3",
+                "USART3_RX"
+            ],
+            "primary_name": "PC5",
+            "swap_group": 0
+        },
+        "8b57fd8f-129d-4cc8-ac1f-7c0ec3d42426": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_D1",
+                "FMPI2C1_SDA",
+                "I2S2_CK",
+                "I2S3_MCK",
+                "SDIO_D7",
+                "SPDIFRX_IN1",
+                "SPI2_SCK",
+                "TIM3_CH2",
+                "TIM8_CH2",
+                "USART6_RX"
+            ],
+            "primary_name": "PC7",
+            "swap_group": 0
+        },
+        "910235be-9d2c-4b5e-8285-a5cc5f2d451f": {
+            "direction": "bidirectional",
+            "names": [
+                "DAC_EXTI9",
+                "DCMI_D0",
+                "I2C3_SMBA",
+                "I2S2_CK",
+                "SAI1_SD_B",
+                "SPI2_SCK",
+                "TIM1_CH2",
+                "USART1_TX",
+                "USB_OTG_FS_VBUS"
+            ],
+            "primary_name": "PA9",
+            "swap_group": 0
+        },
+        "92f7a68e-68cb-49df-9d05-bb9ff03170c1": {
+            "direction": "bidirectional",
+            "names": [
+                "CAN1_TX",
+                "SAI2_FS_B",
+                "TIM1_ETR",
+                "USART1_RTS",
+                "USB_OTG_FS_DP"
+            ],
+            "primary_name": "PA12",
+            "swap_group": 0
+        },
+        "95d8d9db-08a0-4e0e-abdf-6a76f4957141": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_EXTI15",
+                "ADC2_EXTI15",
+                "ADC3_EXTI15",
+                "I2S2_SD",
+                "RTC_REFIN",
+                "SPI2_MOSI",
+                "TIM12_CH2",
+                "TIM1_CH3N",
+                "TIM8_CH3N",
+                "USB_OTG_HS_DP"
+            ],
+            "primary_name": "PB15",
+            "swap_group": 0
+        },
+        "990d9459-00f1-4f90-90dc-658c677089a2": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_D13",
+                "FMC_DA13",
+                "SPDIFRX_IN1",
+                "USART3_TX"
+            ],
+            "primary_name": "PD8",
+            "swap_group": 0
+        },
+        "9ca26849-9f99-49ed-bec9-dd6803a48eed": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "9d01d534-8221-45d3-bb2e-b0c32d60cd08": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VREF+",
+            "swap_group": 0
+        },
+        "9fc22588-af74-4413-8b42-956eba70ed1a": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN3",
+                "ADC2_IN3",
+                "ADC3_IN3",
+                "SAI1_FS_A",
+                "TIM2_CH4",
+                "TIM5_CH4",
+                "TIM9_CH2",
+                "USART2_RX",
+                "USB_OTG_HS_ULPI_D0"
+            ],
+            "primary_name": "PA3",
+            "swap_group": 0
+        },
+        "a12973e2-1563-4793-b83c-33a2cd5362a9": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_A19",
+                "SAI1_SD_B",
+                "SYS_TRACED0"
+            ],
+            "primary_name": "PE3",
+            "swap_group": 0
+        },
+        "a6ec7f03-7f20-4cb5-bdca-35986b7a0bcc": {
+            "direction": "bidirectional",
+            "names": [
+                "CAN2_TX",
+                "CEC",
+                "DCMI_D5",
+                "FMC_SDNE1",
+                "I2C1_SCL",
+                "QUADSPI_BK1_NCS",
+                "TIM4_CH1",
+                "USART1_TX"
+            ],
+            "primary_name": "PB6",
+            "swap_group": 0
+        },
+        "aba62911-c82b-4919-ac9b-5fa19caa9c01": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN14",
+                "ADC2_IN14",
+                "FMC_SDNE0",
+                "I2S1_MCK",
+                "SPDIFRX_IN2"
+            ],
+            "primary_name": "PC4",
+            "swap_group": 0
+        },
+        "ac130226-f6b4-47fa-be7e-735b0bcaf7da": {
+            "direction": "bidirectional",
+            "names": [
+                "SYS_JTCK-SWCLK"
+            ],
+            "primary_name": "PA14",
+            "swap_group": 0
+        },
+        "ad6a71ae-301a-4861-9829-f386cd1cf3dd": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_D15",
+                "FMC_DA15",
+                "USART3_CK"
+            ],
+            "primary_name": "PD10",
+            "swap_group": 0
+        },
+        "b03db771-9d93-4d61-93be-1c3da0d115ad": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN10",
+                "ADC2_IN10",
+                "ADC3_IN10",
+                "FMC_SDNWE",
+                "SAI1_MCLK_B",
+                "USB_OTG_HS_ULPI_STP"
+            ],
+            "primary_name": "PC0",
+            "swap_group": 0
+        },
+        "b0e86a57-4cd6-4c03-b27e-0eb125d97bc8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "BOOT0",
+            "swap_group": 0
+        },
+        "b5df0c23-c683-470e-8ec3-edf51cbe1d37": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_D2",
+                "FMC_NBL0",
+                "SAI2_MCLK_A",
+                "TIM4_ETR"
+            ],
+            "primary_name": "PE0",
+            "swap_group": 0
+        },
+        "bc020c90-9884-4332-987a-c603bbd47591": {
+            "direction": "bidirectional",
+            "names": [
+                "RCC_OSC_IN"
+            ],
+            "primary_name": "PH0-OSC_IN",
+            "swap_group": 0
+        },
+        "bf6a775a-cec0-427b-baaf-cac027bf5387": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_D5",
+                "FMC_CLK",
+                "I2S2_CK",
+                "QUADSPI_CLK",
+                "SPI2_SCK",
+                "SYS_TRACED1",
+                "USART2_CTS"
+            ],
+            "primary_name": "PD3",
+            "swap_group": 0
+        },
+        "c7ff2220-90c1-418f-bceb-3a40be70a5df": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_D10",
+                "FMC_NWAIT",
+                "I2S3_SD",
+                "SAI1_SD_A",
+                "SPI3_MOSI",
+                "USART2_RX"
+            ],
+            "primary_name": "PD6",
+            "swap_group": 0
+        },
+        "caf8ee1a-86a4-4d4c-8e43-be227730cb4a": {
+            "direction": "bidirectional",
+            "names": [
+                "CAN2_RX",
+                "I2C2_SMBA",
+                "I2S2_WS",
+                "SAI1_SCK_B",
+                "SPI2_NSS",
+                "TIM1_BKIN",
+                "USART3_CK",
+                "USB_OTG_HS_ID",
+                "USB_OTG_HS_ULPI_D5"
+            ],
+            "primary_name": "PB12",
+            "swap_group": 0
+        },
+        "cb4bcca9-8372-4e49-bf37-e95aafa56053": {
+            "direction": "bidirectional",
+            "names": [
+                "SPI2_MISO",
+                "TIM12_CH1",
+                "TIM1_CH2N",
+                "TIM8_CH2N",
+                "USART3_RTS",
+                "USB_OTG_HS_DM"
+            ],
+            "primary_name": "PB14",
+            "swap_group": 0
+        },
+        "d0e7b8dd-6134-484e-81be-1e746a1f4736": {
+            "direction": "bidirectional",
+            "names": [
+                "I2C2_SCL",
+                "I2S2_CK",
+                "SAI1_SCK_A",
+                "SPI2_SCK",
+                "TIM2_CH3",
+                "USART3_TX",
+                "USB_OTG_HS_ULPI_D3"
+            ],
+            "primary_name": "PB10",
+            "swap_group": 0
+        },
+        "d139dea8-0e2c-4105-aaff-9065c08184f8": {
+            "direction": "bidirectional",
+            "names": [
+                "SYS_JTMS-SWDIO"
+            ],
+            "primary_name": "PA13",
+            "swap_group": 0
+        },
+        "d601ca40-befa-45fa-b67a-1e1ba8dfb3c2": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN5",
+                "ADC2_IN5",
+                "DAC_OUT2",
+                "I2S1_CK",
+                "SPI1_SCK",
+                "TIM2_CH1",
+                "TIM2_ETR",
+                "TIM8_CH1N",
+                "USB_OTG_HS_ULPI_CK"
+            ],
+            "primary_name": "PA5",
+            "swap_group": 0
+        },
+        "d8306a41-c237-44a4-b663-40c89092cf07": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_D9",
+                "FMC_DA9",
+                "SAI2_SCK_B",
+                "SPI4_SCK",
+                "TIM1_CH3N"
+            ],
+            "primary_name": "PE12",
+            "swap_group": 0
+        },
+        "dc874c6c-4eb4-4fb0-a3e1-145289725fe0": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_AF1",
+                "SYS_WKUP1"
+            ],
+            "primary_name": "PC13",
+            "swap_group": 0
+        },
+        "e1b26362-3c29-4cbf-bd6e-7d43769e7a87": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDA",
+            "swap_group": 0
+        },
+        "e8ee7da2-8c4f-492a-b014-90f93da50695": {
+            "direction": "bidirectional",
+            "names": [
+                "RCC_OSC32_IN"
+            ],
+            "primary_name": "PC14-OSC32_IN",
+            "swap_group": 0
+        },
+        "e9ea0f19-4772-4315-a581-82668e83288f": {
+            "direction": "bidirectional",
+            "names": [
+                "I2C2_SDA",
+                "I2S1_CK",
+                "I2S3_CK",
+                "SPI1_SCK",
+                "SPI3_SCK",
+                "SYS_JTDO-SWO",
+                "TIM2_CH2"
+            ],
+            "primary_name": "PB3",
+            "swap_group": 0
+        },
+        "eae25df7-c970-49b2-aca6-1ac90448051d": {
+            "direction": "bidirectional",
+            "names": [
+                "DAC_EXTI9",
+                "FMC_D14",
+                "FMC_DA14",
+                "USART3_RX"
+            ],
+            "primary_name": "PD9",
+            "swap_group": 0
+        },
+        "ecb52fea-de40-4466-bf06-68b7c5900736": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_D2",
+                "SDIO_D0",
+                "SYS_TRACED0",
+                "TIM3_CH3",
+                "TIM8_CH3",
+                "UART5_RTS",
+                "USART6_CK"
+            ],
+            "primary_name": "PC8",
+            "swap_group": 0
+        },
+        "eefe455d-51a8-4b9b-a9c7-bb5ac84b7b60": {
+            "direction": "bidirectional",
+            "names": [
+                "FMC_D7",
+                "FMC_DA7",
+                "QUADSPI_BK2_IO3",
+                "TIM1_CH2N"
+            ],
+            "primary_name": "PE10",
+            "swap_group": 0
+        },
+        "f71ccbdd-b765-447b-9a3b-482230e3d72c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VBAT",
+            "swap_group": 0
+        },
+        "f7cc1821-4fde-45ff-b265-57b7b98c39c1": {
+            "direction": "bidirectional",
+            "names": [
+                "DCMI_D3",
+                "FMC_NBL1"
+            ],
+            "primary_name": "PE1",
+            "swap_group": 0
+        },
+        "f830d319-43ad-43e9-9d65-35254f2d1a9b": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_EXTI15",
+                "ADC2_EXTI15",
+                "ADC3_EXTI15",
+                "FMC_D1",
+                "FMC_DA1",
+                "FMPI2C1_SDA",
+                "TIM4_CH4"
+            ],
+            "primary_name": "PD15",
+            "swap_group": 0
+        },
+        "f836d95b-40dd-4c95-81c9-a5a7a8f1407e": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_EXTI11",
+                "ADC2_EXTI11",
+                "ADC3_EXTI11",
+                "DCMI_D4",
+                "QUADSPI_BK2_NCS",
+                "SDIO_D3",
+                "SPI3_MISO",
+                "UART4_RX",
+                "USART3_RX"
+            ],
+            "primary_name": "PC11",
+            "swap_group": 0
+        },
+        "fac92114-f1d4-4eef-b2bd-3d081747fd28": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_EXTI11",
+                "ADC2_EXTI11",
+                "ADC3_EXTI11",
+                "CAN1_RX",
+                "TIM1_CH4",
+                "USART1_CTS",
+                "USB_OTG_FS_DM"
+            ],
+            "primary_name": "PA11",
+            "swap_group": 0
+        },
+        "fe0125fa-2795-49b8-9c0a-0bf2a2391811": {
+            "direction": "bidirectional",
+            "names": [
+                "I2S3_SD",
+                "QUADSPI_CLK",
+                "SAI1_SD_A",
+                "SDIO_CK",
+                "SPI3_MOSI",
+                "TIM2_CH4",
+                "USB_OTG_HS_ULPI_D4"
+            ],
+            "primary_name": "PB2",
+            "swap_group": 0
+        },
+        "feef885d-b8d7-4d57-93da-831a98a5ba18": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC1_IN11",
+                "ADC2_IN11",
+                "ADC3_IN11",
+                "I2S2_SD",
+                "I2S3_SD",
+                "SAI1_SD_A",
+                "SPI2_MOSI",
+                "SPI3_MOSI"
+            ],
+            "primary_name": "PC1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ecfc2f9c-927c-4c57-be57-6cec013425c5"
+}

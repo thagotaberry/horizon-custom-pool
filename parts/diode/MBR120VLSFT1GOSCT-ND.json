@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "MBR120VLSFT1GOSCT-ND"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/pub/Collateral/MBR120VLSFT1-D.PDF"
+    ],
+    "description": [
+        false,
+        "SCHOTTKY BARRIER RECTIFIER 1.0A 20V"
+    ],
+    "entity": "cba5158c-706d-4f10-b48a-2de7e5a82a4c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "d185ae1c-ec92-45bb-aff9-c5d404ae14ea",
+    "package": "339759ce-e123-4355-8ca0-4166ebd60a21",
+    "pad_map": {
+        "acd17390-0a6b-472e-95b8-8f9a3c068355": {
+            "gate": "3a9cf76e-893b-4785-a6af-6f15da2086dc",
+            "pin": "16ee5a5c-8eea-4447-ad48-04d973776e3a"
+        },
+        "b0650cbc-5017-4cb6-92e8-0db1921dfcba": {
+            "gate": "3a9cf76e-893b-4785-a6af-6f15da2086dc",
+            "pin": "b57ca2a1-1bbf-43f0-b0a0-bf953094a8de"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "schottky",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "077f10f5-f0cf-45db-b423-d9ebf86e795a",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "150060BS75000"
+    ],
+    "base": "86ca09b4-ea0c-45a7-81d2-f9129d94a122",
+    "datasheet": [
+        false,
+        "http://katalog.we-online.de/led/datasheet/150060GS75000.pdf"
+    ],
+    "description": [
+        false,
+        "LED blue clear 0603 SMD"
+    ],
+    "inherit_model": false,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Würth Elektronik"
+    ],
+    "model": "ed70d573-38fc-4d9a-8442-a0cf6564d480",
+    "parametric": {},
+    "tags": [
+        "blue"
+    ],
+    "type": "part",
+    "uuid": "a81fd908-58da-4e61-8c17-7dd451e6e28d",
+    "value": [
+        true,
+        "base 0603 led"
+    ]
+}

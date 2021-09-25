@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "4fad15ab-b207-4d9c-bf06-6895ef270e8a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "811fe3c7-d32e-4ffc-9a33-0e89fb2e90ee"
+        }
+    },
+    "manufacturer": "Molex",
+    "name": " 0530480210",
+    "prefix": "P",
+    "tags": [],
+    "type": "entity",
+    "uuid": "db217cf8-dda0-4a48-8750-8fddead63b32"
+}

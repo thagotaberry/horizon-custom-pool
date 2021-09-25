@@ -1,0 +1,101 @@
+{
+    "MPN": [
+        false,
+        "MT25QL512ABB8ESF-0SIT"
+    ],
+    "datasheet": [
+        false,
+        "https://www.micron.com/~/media/documents/products/data-sheet/nor-flash/serial-nor/mt25q/die-rev-b/mt25q_qlkt_l_512_abb_0.pdf"
+    ],
+    "description": [
+        false,
+        "QuadSPI Flash 512 MByte"
+    ],
+    "entity": "ee7c6a77-cf82-41d9-8ecf-7d545572ad12",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Micron Technology Inc."
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "1fc85be5-93a7-4c60-b612-d144569b7f19",
+    "pad_map": {
+        "14842113-da1e-4a6d-bcf8-d3956a0d9022": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "5cca2505-541e-4f73-8ab5-02ed1c0ce293"
+        },
+        "20e4c40b-c71b-4193-b49b-20cdb5ad71a4": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "afb123d1-d7e2-40ef-903e-bd7af62c4a66"
+        },
+        "222e5146-d4a3-4ff2-82b4-69db5bc03899": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "bbaad9f3-64b3-49c2-99d4-060b58b7d56b"
+        },
+        "4c77cfc4-c631-4a13-ba11-02944bd820d7": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "71e8ad7f-3dde-4ab5-99c4-fd351ed10d28"
+        },
+        "62cddf8d-517d-44b3-8d1d-4015d0b1f9d9": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "afb123d1-d7e2-40ef-903e-bd7af62c4a66"
+        },
+        "644aa015-5660-4bdc-9d6a-fc5c465c3d56": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "55f04841-776c-4168-9a0a-bbf18335ab03"
+        },
+        "68760750-79d7-48fa-a8f0-731b63a0ea68": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "afb123d1-d7e2-40ef-903e-bd7af62c4a66"
+        },
+        "8d8bcf68-f2b8-4aa6-aa36-e54eb813642e": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "afb123d1-d7e2-40ef-903e-bd7af62c4a66"
+        },
+        "910e8fbf-ba01-4ac6-835e-f96aac37ebc5": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "8100b201-71f3-4f70-9c98-ac57a303eb54"
+        },
+        "9223184b-eed8-472d-a6d7-ce55d3332817": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "afb123d1-d7e2-40ef-903e-bd7af62c4a66"
+        },
+        "97a468ef-84ab-467d-b331-7a837d05caf3": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "afb123d1-d7e2-40ef-903e-bd7af62c4a66"
+        },
+        "a1bcf209-6072-44ce-ab8a-cbb4efa1ea24": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "19a7121f-9a04-4ccb-8e38-aa8aa0f7b26b"
+        },
+        "c2298e9f-409f-443e-97f4-e98ed05c22a7": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "afb123d1-d7e2-40ef-903e-bd7af62c4a66"
+        },
+        "ceb5b834-7ef6-4e80-93ea-fde3d44bba78": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "8b332915-5b45-42b6-9bdf-f0804a34324d"
+        },
+        "d42869e3-14c3-48ff-947f-e3b55c982227": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "c66901dc-84fa-4d0d-b925-9de8f40a57c8"
+        },
+        "f7f085d6-8d08-4717-afd7-70aa0bca0821": {
+            "gate": "a56801f0-35f0-416a-bedd-e3325d280b80",
+            "pin": "a92e18d1-3d28-4257-88ba-448afd0f6944"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "flash",
+        "ic",
+        "memory"
+    ],
+    "type": "part",
+    "uuid": "bfd5fefe-0bba-44ac-8b1e-011f8c05af44",
+    "value": [
+        false,
+        ""
+    ]
+}

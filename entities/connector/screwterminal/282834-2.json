@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "657a93e3-9f4d-462c-85c3-d3f5cda940d5": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2adbb89b-021f-4c68-a37b-0f2657ef431c"
+        }
+    },
+    "manufacturer": "TE Connectivity AMP Connectors",
+    "name": "282834-2 ",
+    "prefix": "J",
+    "tags": [],
+    "type": "entity",
+    "uuid": "a1106a1d-4210-4061-90c3-ae9c38c0041f"
+}

@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "282834-2 "
+    ],
+    "datasheet": [
+        false,
+        "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282834&DocType=Customer+Drawing&DocLang=English"
+    ],
+    "description": [
+        false,
+        "Screw Terminal Block 2.54 mm"
+    ],
+    "entity": "a1106a1d-4210-4061-90c3-ae9c38c0041f",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity AMP Connectors"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "eae42aab-cd07-4107-818f-cb8ad20faf49",
+    "pad_map": {
+        "640f7864-8fa6-4b71-b8be-9dea270cfe17": {
+            "gate": "657a93e3-9f4d-462c-85c3-d3f5cda940d5",
+            "pin": "6780be76-3fd7-4d20-bb1b-6c8662c25528"
+        },
+        "884e46ae-53eb-4e3f-9117-bd26ecff8db5": {
+            "gate": "657a93e3-9f4d-462c-85c3-d3f5cda940d5",
+            "pin": "0818461b-6861-4d62-aa7d-8441df2e01b4"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "terminal"
+    ],
+    "type": "part",
+    "uuid": "75785ae2-d2e0-492b-820d-bf8a58f824d7",
+    "value": [
+        false,
+        ""
+    ]
+}

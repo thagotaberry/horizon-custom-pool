@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "500SSP1S1M6QEA"
+    ],
+    "datasheet": [
+        false,
+        "http://spec_sheets.e-switch.com/specs/T511006.pdf"
+    ],
+    "description": [
+        false,
+        "SWITCH SLIDE (right angle) SPDT 5A 120V"
+    ],
+    "entity": "675d0dbd-5fa8-43c5-bbf6-a4102ab61c49",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "E-Switch"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "43a64b49-22de-46e6-991f-f1f7525cb57a",
+    "pad_map": {
+        "96ed75dc-8528-4e5e-a0eb-8af292f20924": {
+            "gate": "601679ea-f7a9-477b-af50-aa24602bee0c",
+            "pin": "d6997fd4-7ff8-4adf-9de5-51f45acb1e14"
+        },
+        "a7b3aaa4-9dbb-4c5c-b3c9-25b208748f5f": {
+            "gate": "601679ea-f7a9-477b-af50-aa24602bee0c",
+            "pin": "8f51f907-2880-46a5-ba12-15197c517690"
+        },
+        "cc8b53fb-47e0-45b7-9f97-f493f8ae3530": {
+            "gate": "601679ea-f7a9-477b-af50-aa24602bee0c",
+            "pin": "d3dc2505-6156-4e2a-9285-6f7e5e5dd9e8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "spdt",
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "c4956d7b-a500-4ab5-b31f-dd2951be4312",
+    "value": [
+        false,
+        ""
+    ]
+}

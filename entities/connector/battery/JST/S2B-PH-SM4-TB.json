@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "66af8e4a-28d2-45e9-8148-169f227ab3ca": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2fc49619-1ad2-498e-8039-6d499599b1b8"
+        }
+    },
+    "manufacturer": "JST",
+    "name": "S2B-PH-SM4-TB",
+    "prefix": "P",
+    "tags": [],
+    "type": "entity",
+    "uuid": "58669c11-e4d2-4a77-8a14-22224063104e"
+}
